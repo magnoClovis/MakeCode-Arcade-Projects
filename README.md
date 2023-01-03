@@ -5,3 +5,4 @@
  
 - [Guess the Number](https://github.com/magnoClovis/MakeCode-Arcade-Projects/tree/main/Guess%20the%20Number)
 - [Tic Tac Toe](https://github.com/magnoClovis/MakeCode-Arcade-Projects/tree/main/Tic Tac Toe)
+-
